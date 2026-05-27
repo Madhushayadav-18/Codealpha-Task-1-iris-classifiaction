@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Iris Flower Classification Project
 ##  Project Overview
 This project uses Machine Learning to classify Iris flowers into three species:
@@ -54,3 +55,7 @@ Built using Streamlit:
 ### 1. Install requirements
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn streamlit joblib
+=======
+# Codealpha-Task-1-iris-classifiaction
+A machine learning project that classifies Iris flowers into three species—Setosa, Versicolor, and Virginica—based on petal and sepal measurements using Python and Scikit-Learn.
+>>>>>>> 905354776f0ada4e8c0119f4f6d897cde7428244
